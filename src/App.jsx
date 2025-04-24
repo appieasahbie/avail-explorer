@@ -18,3 +18,4 @@ useEffect(() => {
   return () => clearInterval(interval);
 }, []);
 
+export default App;
